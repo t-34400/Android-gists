@@ -2,6 +2,8 @@
 This repository contains a collection of Gists related to Android application development, addressing various functionalities and code snippets.
 
 ## Gists List
+- Kotlin
+  - [Vector3D and Quaternion](https://gist.github.com/t-34400/4af1ef1b3e295ff4a0d0cde4545fcfd2)
 - Functionalities
   - [Android Bluetooth Basics](https://gist.github.com/t-34400/7c80a06925058f6a1076cbf1d5e8fd29):
     This Gist provides minimal code snippets for utilizing Bluetooth functionality in an Android application.
