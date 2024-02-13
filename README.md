@@ -2,6 +2,8 @@
 This repository contains a collection of Gists related to Android application development, addressing various functionalities and code snippets.
 
 ## Gists List
+- Java
+  - [Print Clazz Methods](https://gist.github.com/t-34400/2c7e195109d603054a2bbca0c9af3cce): Sample code to print all method arguments of the class using reflection
 - Kotlin
   - [Vector3D and Quaternion](https://gist.github.com/t-34400/4af1ef1b3e295ff4a0d0cde4545fcfd2)
 - Functionalities
