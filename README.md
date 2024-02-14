@@ -16,6 +16,8 @@ This repository contains a collection of Gists related to Android application de
   - [Android Exif Rotation Utility](https://gist.github.com/t-34400/517616878e2a92d9d6998983fe4c5940)
     This Gist contains a utility for retrieving image rotation information from Exif data and obtaining an InputStream after correctly rotating the image.
   - [Window PixelCopy](https://gist.github.com/t-34400/fb5e35c55637fa2db495740187b73f79): This Gist contains sample code for requesting the PixelCopy from Activity's window.
+- Other Settings
+  - [AIDL build gradle](https://gist.github.com/t-34400/1a4b642be45a3b5285fc1661b3413db1)
 
 ## Repositories
 - [Pose Tracker for VRChat](https://github.com/t-34400/PoseTrackerVRC): This Android application performs pose estimation using the device's camera and simulates full-body tracking in VRChat by sending OSC (Open Sound Control) messages.
